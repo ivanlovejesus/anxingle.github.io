@@ -17,5 +17,6 @@ button显示修改在-include/footer.html和base.js里面
 3. I want to write my own blog
 
 
-[search what you want to know ](http://www.baidu.com)
+[search what you want to know ](http://www.baidu.com)     
+
 [360 is XXX](http://www.renren.com)
